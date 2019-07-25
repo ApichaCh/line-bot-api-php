@@ -1,2 +1,2 @@
 <?php
-echo "Kant IoT <=> LINEBOT MrNorth";
+echo "MrNorth IoT <=> LINEBOT API";
